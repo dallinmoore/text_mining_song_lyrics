@@ -21,13 +21,13 @@ To run this app locally, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/playlist-recommender.git
+git clone https://github.com/dallinmoore/text_mining_song_lyrics.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd playlist-recommender
+cd ext_mining_song_lyrics
 ```
 
 3. Install the required Python packages:
