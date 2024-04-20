@@ -48,7 +48,8 @@ recommendations = recommend_songs(user_query=user_query,label=selected_label)
 
 
 if len(recommendations) > 0:
-    st.markdown("#### **Top recommended songs:**/n *Click on the song to listen to it!*")
+    st.markdown("#### **Top recommended songs:**")
+    st.markdown("*Click on the song to listen to it!*")
     for song, artist in recommendations:
         text = song + " by " + artist
         # link_text = "https://open.spotify.com/search/" + text
