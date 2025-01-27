@@ -4,7 +4,7 @@ For my final project in my Text Mining class, I built a Streamlit web app for ge
 
 ## Project Structure
 
-The project was initially developed and explored in `DATA5420_Final_Project_Dallin_Moore.ipynb`. This notebook contains:
+The project was initially developed and explored in `Project_Exploration_Creation.ipynb`. This notebook contains:
 - Data preprocessing and cleaning steps
 - Generation of song embeddings using SBERT
 - Clustering analysis and theme generation
@@ -64,5 +64,5 @@ These files are the result of the processing steps in the Jupyter notebook and a
 
 - This app is developed by Dallin Moore.
 - The song embeddings are generated using SBERT.
-- The labeled song dataset is sourced from a subset of Million Song Dataset accessed [here](https://www.kaggle.com/datasets/joebeachcapital/57651-spotify-songs)
+- The labeled song dataset is sourced from a subset of Million Song Dataset accessed [here](https://www.kaggle.com/datasets/joebeachcapital/57651-spotify-songs).
 
